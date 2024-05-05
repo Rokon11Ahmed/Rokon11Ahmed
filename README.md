@@ -1,11 +1,16 @@
-<p align="center">
-<a href="https://developers.google.com/profile/u/skydoves"><img alt="Google Developer Expert" src="https://skydoves.github.io/badges/gde.svg"/></a> 
-<a href="https://devlibrary.withgoogle.com/authors/skydoves"><img alt="Google Developers" src="https://skydoves.github.io/badges/google-devlib.svg"/></a>
-<a href="https://medium.com/@skydoves"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
-<a href="https://speakerdeck.com/skydoves"><img alt="Speaker" src="https://skydoves.github.io/badges/speaker.svg"/></a></br>
-<a href="https://github.com/sponsors/skydoves"><img alt="Sponsors" src="https://skydoves.github.io/badges/badge_sponsors.svg"/></a>
-<a href="https://twitter.com/github_skydoves"><img alt="Twitter" src="https://skydoves.github.io/badges/twitter.svg"/></a>
-<a href="https://androiddev.social/@skydoves"><img alt="Mastodon" src="https://skydoves.github.io/badges/mastodon.svg"/></a>
-<a href="https://www.youtube.com/@skydoves"><img alt="YouTube" src="https://skydoves.github.io/badges/dove-youtube.svg"/></a></br></br>
-<a href="https://github.com/skydoves"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=Rokon11ahmed&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+
+<h3 align="center">A passionate Android developer from Bangladesh</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokon11ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="rokon11ahmed" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/rokon11ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rokon11ahmed" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rokon11ahmed&show_icons=true&locale=en" alt="rokon11ahmed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokon11ahmed&" alt="rokon11ahmed" /></p>
